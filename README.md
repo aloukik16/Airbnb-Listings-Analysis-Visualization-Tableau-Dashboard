@@ -1,4 +1,4 @@
-# Airbnb Listings Analysis with Tableau
+![image](https://github.com/user-attachments/assets/3d4acaba-46f0-486f-b642-e63944f810cf)# Airbnb Listings Analysis with Tableau
 
 ## Overview
 
@@ -21,8 +21,16 @@ Access the interactive Tableau dashboard here: [Airbnb Tableau Dashboard](https:
 - **Tableau** for data visualization
 - **Excel** for initial data processing
 
+## Images
+Below are snapshot from the Tableau dashboard illustrating key insights:
+
+![image](https://github.com/user-attachments/assets/6c8a0672-0103-4e66-ae27-66c0c0a5015d)
+
+
+
 ## Contribution
 Contributions are welcome. If you have suggestions or improvements, feel free to submit a pull request.
 
 ---
 This project aims to provide a comprehensive understanding of Airbnb market trends through effective data visualization.
+
