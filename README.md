@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3d4acaba-46f0-486f-b642-e63944f810cf)# Airbnb Listings Analysis with Tableau
+# Airbnb Listings Analysis with Tableau
 
 ## Overview
 
